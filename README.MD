@@ -39,9 +39,9 @@ To see the expected result for each iteration, refer to the solution example: [*
 -  Clone this repo
 
 ```shell
-$ cd lab-react-training
+$ cd react-training
 $ npm install
-$ npm start
+$ npm run dev
 ```
 
 ## Submission
@@ -51,10 +51,10 @@ $ npm start
    ```
    git add .
    git commit -m "done"
-   git push origin master
+   git push origin main
    ```
 
--  Create a Pull Request so that your TAs can review your work.
+-  COLOQUE O LINK DO SEU REPOSITÓRIO NO PORTAL
 
 ## Instructions
 
@@ -102,6 +102,7 @@ Create and render an `IdCard` component with 6 props:
 **Expected Output:**
 
 ![image](https://user-images.githubusercontent.com/5306791/52976030-22b0d200-33c8-11e9-91fe-e3ce0fa14078.png)
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
 ---
 
@@ -124,6 +125,7 @@ The component should display a greeting text in the chosen language.
 **Expected Output:**
 
 ![image](https://user-images.githubusercontent.com/5306791/52957158-57edfd80-3391-11e9-8726-93c1a3389016.png)
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
 ---
 
@@ -146,6 +148,7 @@ The component should display a random integer in the range between the `min` and
 **Expected Output:**
 
 ![image](https://user-images.githubusercontent.com/5306791/52957202-718f4500-3391-11e9-9b45-d1172067e877.png)
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
 ---
 
@@ -169,6 +172,7 @@ The component should take 3 props:
 **Expected Output:**
 
 ![image](https://user-images.githubusercontent.com/5306791/52957816-ec0c9480-3392-11e9-9e00-67094fa2b431.png)
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
 As a bonus, you can also display the hex values of the color (e.g., `#ff0000` for red).
 
@@ -231,6 +235,7 @@ Take your time to make the component look as close to the _expected output_ as p
 **Expected Output:**
 
 ![image](https://user-images.githubusercontent.com/5306791/52975678-ac5fa000-33c6-11e9-8cbf-7d13a8a0f625.png)
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
 ---
 
@@ -256,6 +261,7 @@ The component should take 1 prop:
 **Expected Output:**
 
 ![image](https://user-images.githubusercontent.com/5306791/52972787-39512c00-33bc-11e9-93d8-428d835442fd.png)
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
 ---
 
@@ -297,6 +303,7 @@ The component should take 4 props:
 **Expected Output:**
 
 ![image](https://user-images.githubusercontent.com/5306791/52972847-66054380-33bc-11e9-92e0-8e48d1ab0212.png)
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
 ---
 
@@ -331,6 +338,7 @@ Create a `ClickablePicture` component that displays a picture. On each click, th
 **Expected Output:**
 
 ![](https://media.giphy.com/media/9FXwCr2LLLIlgNL2sL/giphy.gif)
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
 PS: If you want to use your picture instead, you can create it using this picture: http://www.stickpng.com/assets/images/584999937b7d4d76317f5ffd.png 😎
 
@@ -363,6 +371,8 @@ Every time the user clicks on the component, it should:
 
 ![image](https://user-images.githubusercontent.com/5306791/52976752-f64a8500-33ca-11e9-98ee-b0b17f5e85b2.png)
 
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
+
 ---
 
 ### Iteration 11 | State: `Carousel`
@@ -389,6 +399,7 @@ The component should take 1 prop:
 **Expected Output:**
 
 ![](https://media.giphy.com/media/1n7cAJu0MWerLnnohR/giphy.gif)
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
 ---
 
@@ -409,6 +420,7 @@ The component should take 1 prop:
 **Expected Output:**
 
 ![image](https://user-images.githubusercontent.com/5306791/53028410-13349600-3467-11e9-8199-407375e61ab0.png)
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
 ---
 
@@ -429,6 +441,7 @@ import profiles from "./data/berlin.json";
 **Expected Output:** (you should see about 28 profiles)
 
 ![image](https://user-images.githubusercontent.com/5306791/53018529-e8d8dd80-3452-11e9-9912-1221eef67be6.png)
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
 ---
 
@@ -445,6 +458,7 @@ Update your `FaceBook` component and add a button for each country the students 
 **Expected Output:** (note: part of the content in the screenshot was cropped)
 
 ![image](https://user-images.githubusercontent.com/5306791/53018961-f8a4f180-3453-11e9-9c82-1f57a2f66a30.png)
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
 **Bonus:**
 
@@ -480,7 +494,7 @@ If you want to include Bootstrap with [Reactstrap](https://reactstrap.github.io)
 npm install reactstrap bootstrap
 ```
 
-And add the following line in `src/index.js`
+And add the following line in `src/index.jsx`
 
 ```js
 import "bootstrap/dist/css/bootstrap.min.css";
@@ -495,6 +509,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 **Output**
 
 ![image](https://user-images.githubusercontent.com/5306791/53089348-9c51d880-350c-11e9-9621-cad9d87bdd48.png)
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
 ---
 
@@ -546,5 +561,6 @@ The `RGBColorPicker` should render 3 `SingleColorPicker` components and send the
 **Expected Output**
 
 ![image](https://user-images.githubusercontent.com/5306791/53166207-f918c600-35d4-11e9-8c47-c58cdc2d05b0.png)
+[**Veja como tem que ficar**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
 **Happy coding!** :heart:

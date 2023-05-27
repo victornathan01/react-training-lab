@@ -1,7 +1,3 @@
-export default function IdCard() {
-   return (
-      <div>
-         
-      </div>
-   )
+export default function IdCard(props) {
+   return <div>{props.ivo}</div>;
 }
