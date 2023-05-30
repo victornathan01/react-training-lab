@@ -1,5 +1,5 @@
 body {
-   margin: 0;
+   margin: 10px;
    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
       "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
       "Helvetica Neue", sans-serif;
@@ -15,4 +15,24 @@ code {
 
 .d {
   background-color: rgb(red, green, blue);
+}
+
+.idCard {
+   display: flex;
+   gap: 15px;
+   border: solid 1px;
+   padding: 3px;
+   line-height: 6px;
+   margin-bottom: 10px;
+}
+
+.profile-img{
+   
+}
+
+.greetings {
+   border: solid 1px;
+   padding: 3px;
+   line-height: 6px;
+   margin-bottom: 10px;
 }
